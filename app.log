@@ -1,0 +1,46 @@
+informing
+informing
+informing
+informing
+informing
+informing
+informing
+informing
+informing
+informing
+informing
+informing
+informing
+informing
+informing
+informing
+informing
+informing
+<Request 'http://localhost:5000/todo/api/v1.0/tasks' [GET]>
+<Request 'http://localhost:5000/todo/api/v1.0/tasks?q=harsha' [GET]>
+<Request 'http://localhost:5000/todo/api/v1.0/tasks?q=harsha' [GET]>
+ImmutableMultiDict([('q', 'harsha')])
+<Request 'http://localhost:5000/todo/api/v1.0/tasks' [GET]>
+ImmutableMultiDict([])
+<Request 'http://localhost:5000/todo/api/v1.0/tasks' [GET]>
+ImmutableMultiDict([])
+<Request 'http://localhost:5000/todo/api/v1.0/tasks' [GET]>
+ImmutableMultiDict([])
+<Request 'http://localhost:5000/todo/api/v1.0/tasks' [GET]>
+ImmutableMultiDict([])
+<Request 'http://localhost:5000/todo/api/v1.0/tasks' [GET]>
+ImmutableMultiDict([])
+<Request 'http://localhost:5000/todo/api/v1.0/tasks' [GET]>
+ImmutableMultiDict([])
+<Request 'http://localhost:5000/todo/api/v1.0/tasks' [GET]>
+ImmutableMultiDict([])
+<Request 'http://localhost:5000/todo/api/v1.0/tasks' [GET]>
+ImmutableMultiDict([])
+<Request 'http://localhost:5000/todo/api/v1.0/tasks' [GET]>
+ImmutableMultiDict([])
+<Request 'http://localhost:5000/todo/api/v1.0/tasks' [GET]>
+ImmutableMultiDict([])
+<Request 'http://localhost:5000/todo/api/v1.0/tasks' [GET]>
+ImmutableMultiDict([])
+<Request 'http://localhost:5000/todo/api/v1.0/tasks' [GET]>
+ImmutableMultiDict([])
